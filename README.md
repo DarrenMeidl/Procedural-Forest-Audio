@@ -92,4 +92,4 @@ To run the project in your local environment, follow these steps:
 
 ## 📽️ Video
 
-[**Watch the Gameplay Showreel!**](https://www.youtube.com/watch?v=Crc4AthdQYA) (🎧 Headphones recommended)
+[**Watch the Gameplay Showreel!**](https://www.youtube.com/watch?v=Crc4AthdQYA) (🎧Headphones recommended)
